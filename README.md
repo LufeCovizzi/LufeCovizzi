@@ -8,7 +8,7 @@
 
 ## 💡 Sobre mim
 
-Sou apaixonado por ciência, tecnologia e resolução de problemas. Após concluir minha formação em Biotecnologia, decidi direcionar minha trajetória profissional para o desenvolvimento de software, unindo o raciocínio analítico da ciência com o dinamismo da programação.
+Entusiasta por ciência, tecnologia e resolução de problemas. Após concluir minha formação em Biotecnologia, decidi direcionar minha trajetória profissional para o desenvolvimento de software, unindo o raciocínio analítico da ciência com o dinamismo da programação.
 
 Atualmente, estou aprofundando meus estudos nas seguintes tecnologias:
 
