@@ -32,8 +32,8 @@ Conquistar uma oportunidade como **Desenvolvedor Full Stack**, onde eu possa apr
 
 ## 📬 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil) *(substitua pelo seu link real)*
-- 📧 seuemail@exemplo.com *(substitua pelo seu e-mail real)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-fernando-covizzi/) 
+- 📧 luizfccastilho@gmail.com
 
 ---
 
