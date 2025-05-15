@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👨‍💻 Luiz Fernando Covizzi Castilho
 
-<!--
-**LufeCovizzi/LufeCovizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Graduado em Biotecnologia** pela Universidade Federal de Uberlândia (UFU)  
+🔁 **Em transição de carreira para a área de tecnologia**  
+🚀 Aspirante a **Desenvolvedor Full Stack**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Sobre mim
+
+Sou apaixonado por ciência, tecnologia e resolução de problemas. Após concluir minha formação em Biotecnologia, decidi direcionar minha trajetória profissional para o desenvolvimento de software, unindo o raciocínio analítico da ciência com o dinamismo da programação.
+
+Atualmente, estou aprofundando meus estudos nas seguintes tecnologias:
+
+### 🛠️ Tecnologias que domino:
+- HTML
+- CSS
+- JavaScript
+
+### 📚 Estudando atualmente:
+- .NET
+- C#
+- Python
+
+---
+
+## 🎯 Objetivo
+
+Conquistar uma oportunidade como **Desenvolvedor Full Stack**, onde eu possa aprender, crescer e colaborar em projetos impactantes.
+
+---
+
+## 📬 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil) *(substitua pelo seu link real)*
+- 📧 seuemail@exemplo.com *(substitua pelo seu e-mail real)*
+
+---
+
+> *"Ciência e código têm algo em comum: ambos mudam o mundo quando bem aplicados."*
