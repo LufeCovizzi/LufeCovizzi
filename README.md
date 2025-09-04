@@ -18,9 +18,9 @@ Atualmente, estou aprofundando meus estudos nas seguintes tecnologias:
 - JavaScript
 
 ### 📚 Estudando atualmente:
-- .NET
-- C#
-- Python
+- Java
+- Bootstrap
+- Angular
 
 ---
 
