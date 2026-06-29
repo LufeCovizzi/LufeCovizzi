@@ -239,16 +239,6 @@ Designed to track experiments, samples, and reagents — directly informed by 5 
 
 ---
 
-## ◈ GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LufeCovizzi&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## ◈ Contribution Activity
 
 <div align="center">
