@@ -275,29 +275,12 @@ Designed to track experiments, samples, and reagents — directly informed by 5 
 
 ## ◈ Current Focus
 
-```yaml
-current_focus:
-  learning:
-    - TypeScript & NestJS architecture
-    - RAG pipelines (Retrieval-Augmented Generation)
-    - React for full-stack projects
-    - SQL optimization & data engineering fundamentals
-
-  building:
-    - LabTrack API: production-ready lab experiment manager
-    - Expanding LLM integrations beyond Gemini
-
-  exploring:
-    - Cloud fundamentals (GCP / AWS)
-    - Vector databases for AI search
-    - Data pipeline tooling (ETL/ELT concepts)
-
-  open_to:
-    - Back-end internship (Python / Node.js)
-    - Junior developer roles (full stack)
-    - Data engineering entry positions
-    - AI / automation projects
-```
+| 📚 Learning | 🔨 Building | 🔭 Exploring | 🟢 Open To |
+|------------|------------|------------|-----------|
+| TypeScript & NestJS | LabTrack API (prod-ready) | GCP / AWS fundamentals | Back-end internship |
+| RAG pipelines | LLM integrations beyond Gemini | Vector databases for AI search | Jr Developer roles |
+| React for full-stack | | Data pipeline (ETL/ELT) | Data Engineering |
+| SQL optimization & data engineering | | | AI / Automation projects |
 
 ---
 
