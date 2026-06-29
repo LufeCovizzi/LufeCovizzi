@@ -11,7 +11,6 @@
 <br/>
 
 ![Location](https://img.shields.io/badge/📍_Mirassol,_SP-Brasil-4C1D95?style=flat-square)
-![Remote](https://img.shields.io/badge/💻_100%25-Remoto-7C3AED?style=flat-square)
 ![Open to Work](https://img.shields.io/badge/🟢_Open_to-Estágio_/_Jr_Dev-059669?style=flat-square)
 
 <br/>
