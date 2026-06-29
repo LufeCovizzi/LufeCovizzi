@@ -43,7 +43,7 @@ I build **Python back-end services**, integrate **LLM APIs** into real workflows
 | 🤖 **AI Tools** | Google Gemini API · OpenAI SDK · Claude · ChatGPT |
 | 🌍 **English** | C1 Advanced · Versátil Idiomas (2024) |
 | 📖 **Publication** | Book · Editora Dialética · Amazon · ISBN 978-6527079392 |
-| 📍 **Location** | Mirassol, SP — Brazil · 100% Remote |
+| 📍 **Location** | Mirassol, SP — Brazil |
 | 🟢 **Open to** | Back-End Internship · Jr Developer · Data Engineering · AI/Automation |
 
 ---
@@ -62,7 +62,7 @@ I build **Python back-end services**, integrate **LLM APIs** into real workflows
 
 **Tooling & DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
 
 **Learning Now**
 
