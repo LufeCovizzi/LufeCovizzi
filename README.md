@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Luiz%20Fernando%20Covizzi%20Castilho&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20·%20AI%20Integrations%20·%20Back-End%20Engineer&descAlignY=58&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=700&lines=Building+intelligent+back-end+systems;Integrating+LLMs+into+real+workflows;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+REST+API;Scientist+turned+Software+Engineer)](https://git.io/typing-svg)
-
 <br/>
 
 ![MSc Badge](https://img.shields.io/badge/MSc-Biologia_Química_UNIFESP-7C3AED?style=for-the-badge&logo=academia&logoColor=white)
@@ -33,35 +31,21 @@
 
 ## ◈ About
 
-```python
-class LuizFernando:
-    def __init__(self):
-        self.name        = "Luiz Fernando Covizzi Castilho"
-        self.role        = "Python Developer · AI Integrations · Back-End Engineer"
-        self.location    = "Mirassol, SP — Brazil"
-        self.education   = [
-            "MSc Biologia Química · UNIFESP (2024–2026)",
-            "Pós-graduação Full Stack · Descomplica (2026)",
-            "ADS · Cruzeiro do Sul Virtual (2025–2027)",
-            "BSc Biotecnologia · UFU (2023)",
-        ]
-        self.languages   = ["Python", "JavaScript", "SQL", "HTML5", "CSS3"]
-        self.stack       = ["FastAPI", "PostgreSQL", "REST API", "Git", "Swagger"]
-        self.ai_tools    = ["Google Gemini API", "OpenAI SDK", "Claude", "ChatGPT"]
-        self.english     = "C1 Advanced · Versátil Idiomas (2024)"
-        self.publication = "Book · Editora Dialética · Amazon · ISBN 978-6527079392"
+Scientist turned engineer. I spent 5+ years doing rigorous research at **USP** and **UFU** — analyzing large datasets, building reproducible pipelines, and documenting complex processes. Now I apply that same analytical precision to software engineering.
 
-    def bio(self):
-        return """
-        Scientist turned engineer. Built 5+ years of analytical rigor in research labs
-        at USP and UFU — now applying that same precision to software systems.
-        I build Python back-end services, integrate LLM APIs into real workflows,
-        and care deeply about clean architecture and useful documentation.
-        """
+I build **Python back-end services**, integrate **LLM APIs** into real workflows, and care deeply about clean architecture and useful documentation. My scientific background isn't a detour — it's a differentiator.
 
-    def open_to(self):
-        return ["Back-End Internship", "Jr Developer", "Data Engineering", "AI/Automation"]
-```
+<br/>
+
+| | |
+|---|---|
+| 🎓 **Education** | MSc Biologia Química · UNIFESP · Pós Full Stack · Descomplica · ADS · Cruzeiro do Sul · BSc Biotecnologia · UFU |
+| 💻 **Stack** | Python · JavaScript · FastAPI · PostgreSQL · REST API · Git · Swagger |
+| 🤖 **AI Tools** | Google Gemini API · OpenAI SDK · Claude · ChatGPT |
+| 🌍 **English** | C1 Advanced · Versátil Idiomas (2024) |
+| 📖 **Publication** | Book · Editora Dialética · Amazon · ISBN 978-6527079392 |
+| 📍 **Location** | Mirassol, SP — Brazil · 100% Remote |
+| 🟢 **Open to** | Back-End Internship · Jr Developer · Data Engineering · AI/Automation |
 
 ---
 
